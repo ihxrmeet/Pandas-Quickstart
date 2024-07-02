@@ -24,7 +24,7 @@ This course covers essential topics such as:
 - **Beginner-Friendly**: Perfect for those new to Pandas and data analysis.
 - **Hands-On Learning**: Practical examples and exercises to reinforce learning.
 - **Created with ChatGPT**: Developed using ChatGPT to ensure clarity and simplicity in explanations.
-
+ 
 ## Getting Started
 
 To start learning:
